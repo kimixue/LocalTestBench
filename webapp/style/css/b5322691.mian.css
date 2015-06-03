@@ -1,0 +1,22 @@
+body{
+	margin:0;
+	padding:0;	
+}
+#m-scratch{
+	position: relative;
+}
+#canvas{
+	position: absolute;
+	z-index: 100;
+	top:0;
+	left:0;
+}
+#j-message{
+	position: absolute;
+	top:0;
+	left:0;
+	width:150px;
+	height: 50px;
+	text-align: center;
+	line-height: 50px;
+}

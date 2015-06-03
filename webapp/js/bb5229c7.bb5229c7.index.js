@@ -1,0 +1,3 @@
+function baby(){
+	alert('love');
+}

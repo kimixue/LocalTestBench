@@ -1,0 +1,16 @@
+{
+  "name": "LocalTestBench",
+  "version": "0.0.0",
+  "authors": [
+    "kimi xue <tb0806963@163.com>"
+  ],
+  "description": "jquery",
+  "keywords": [
+    "bower",
+    "jquery"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}

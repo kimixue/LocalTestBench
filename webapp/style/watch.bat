@@ -1,0 +1,1 @@
+scss --watch scss/main.scss:css/mian.css
